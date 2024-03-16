@@ -8,8 +8,8 @@ Used for training and evaluating machine learning models.
 
 ## Description
 60,000 images for training and 10,000 images for testing.
-Matrice de pixeli în scala de gri (28x28 pixeli).
-Cifrele de la 0 la 9 corespunzătoare fiecărei imagini.
+Grayscale pixel matrix (28x28 pixels).
+The numbers from 0 to 9 correspond to each image.
 
 ---
 
@@ -21,8 +21,8 @@ Cifrele de la 0 la 9 corespunzătoare fiecărei imagini.
 ## Utilization
 - Graphical interface that allows the user to draw a figure and then have the algorithm classify that figure
 - Effective implementation of the Gradient Descent algorithm
-- Compararea performanțelor între setul de date neprelucrat și același set de date, doar că prelucrat cu PCA
-
+- Performance comparison between the raw data set and the same data set, only processed with PCA
+- 
 ---
 
 ## Interface
