@@ -22,7 +22,7 @@ The numbers from 0 to 9 correspond to each image.
 - Graphical interface that allows the user to draw a figure and then have the algorithm classify that figure
 - Effective implementation of the Gradient Descent algorithm
 - Performance comparison between the raw data set and the same data set, only processed with PCA
-- 
+
 ---
 
 ## Interface
